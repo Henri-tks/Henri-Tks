@@ -1,4 +1,3 @@
-
 ## Bonjour, je suis Henri ! 👋
 
 Étudiant en Bachelor Informatique à **Sup de Vinci Rennes**, je suis un profil hybride passionné par l'**Infrastructure IT**, le **Réseau** et l'**Automatisation**.
@@ -9,9 +8,9 @@ Ma force ? Je ne me contente pas de configurer des systèmes, je crée les outil
 
 <br/>
 
-### 🎯 Objectif : Alternance 2025
+### 🎯 Objectif : Alternance 2026
 <br/>
-Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système & Réseau** ou **DevOps Junior** pour la rentrée de Septembre 2025 (disponible avant).
+Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système & Réseau** ou **DevOps Junior** pour la rentrée de Septembre 2026 (disponible avant).
 
 <br/>
 
@@ -45,7 +44,7 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
 > Mise en place d'un standardiste IA gérant des flux audio temps réel via API (Low-Latency).
 > * **Tech :** Docker, Webhooks, API REST, Gestion de flux.
 
-#### 🛠️ [Scripts d'Administration Système](https://github.com/Henri-tks/NOM-DU-REPO-ICI)
+#### 🛠️ [Scripts d'Administration Système](https://github.com/Henri-tks/sysadmin-automation-scripts)
 > *Scripting & Maintenance*
 > Automatisation de tâches récurrentes et traitement de données.
 > * **Tech :** Python, Bash/PowerShell.
@@ -60,7 +59,8 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
 ### 📊 Activité GitHub
 <br/>
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-tks&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Langages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henri-tks&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Stats Globales Henri" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-tks&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Langages" />
 </p>
 
 <br/>
@@ -75,3 +75,4 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+```
