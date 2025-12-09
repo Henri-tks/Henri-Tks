@@ -59,10 +59,8 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
 ### 📊 Activité GitHub
 <br/>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henri-tks&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Stats Globales Henri" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-tks&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Langages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-tks&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Henri" />
 </p>
-
 <br/>
 
 ### 📫 Contact
@@ -75,4 +73,3 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-```
