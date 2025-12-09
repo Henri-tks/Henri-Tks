@@ -39,17 +39,17 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
 ### 📂 Projets & Labs | Projects & Labs
 <br/>
 
-#### 🎙️ [Agent Vocal & Infrastructure VoIP](https://github.com/Henri-tks/NOM-DU-REPO-ICI)
+#### 🎙️ [Agent Vocal & Infrastructure VoIP](https://github.com/Henri-tks/Projet-Agent-Vocal-Infrastructure-VoIP)
 > *Automatisation & Flux Réseaux*
 > Mise en place d'un standardiste IA gérant des flux audio temps réel via API (Low-Latency).
 > * **Tech :** Docker, Webhooks, API REST, Gestion de flux.
 
-#### 🛠️ [Scripts d'Administration Système](https://github.com/Henri-tks/sysadmin-automation-scripts)
+#### 🛠️ [Scripts d'Administration Système](https://github.com/Henri-tks/Scripts-Administration-Systeme)
 > *Scripting & Maintenance*
 > Automatisation de tâches récurrentes et traitement de données.
 > * **Tech :** Python, Bash/PowerShell.
 
-#### 📚 [Gestionnaire de Bibliothèque](https://github.com/Henri-tks/NOM-DU-REPO-ICI)
+#### 📚 [Gestionnaire de Bibliothèque](https://github.com/Henri-tks/Gestionnaire_Bibliotheque)
 > *Développement Logiciel (C#)*
 > Application complète avec base de données SQL.
 > * **Tech :** C# .NET, SQL Server.
