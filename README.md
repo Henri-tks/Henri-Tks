@@ -56,12 +56,6 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
 
 <br/>
 
-### 📊 Activité GitHub
-<br/>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-tks&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Henri" />
-</p>
-<br/>
 
 ### 📫 Contact
 <br/>
