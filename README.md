@@ -39,6 +39,13 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système 
 ### 📂 Projets & Labs | Projects & Labs
 <br/>
 
+
+#### 🛡️ [Sécurité Kubernetes & DevSecOps](https://github.com/Henri-tks/AIGIS-DevSecOps-Lab)
+> *Cyberdéfense & Surveillance Runtime*
+> Déploiement d'une architecture de sécurité "Zero-Trust" avec détection d'intrusions en temps réel via sondes noyau (eBPF).
+
+> * **Tech :** Kubernetes, Falco, eBPF, Docker, IaC.
+
 #### 🎙️ [Agent Vocal & Infrastructure VoIP](https://github.com/Henri-tks/Projet-Agent-Vocal-Infrastructure-VoIP)
 > *Automatisation & Flux Réseaux*
 > Mise en place d'un standardiste IA gérant des flux audio temps réel via API (Low-Latency).
