@@ -66,6 +66,15 @@ Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Systèmes
 
 <br/>
 
+### 📊 Langages & Activité Logicielle
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-tks&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="200px"/>
+</p>
+
+<br/>
+
 ### 📫 Contact
 <br/>
 <p align="left">
