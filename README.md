@@ -1,68 +1,70 @@
 ## Bonjour, je suis Henri ! 👋
 
-Étudiant en Bachelor Informatique à **Sup de Vinci Rennes**, je suis un profil hybride passionné par l'**Infrastructure IT**, le **Réseau** et l'**Automatisation**.
+Étudiant en **Bachelor 3 Systèmes & Réseaux, Cloud et Cybersécurité** à **Sup de Vinci Rennes**. Je suis un profil hybride passionné par l'**Infrastructure IT**, l'administration de services Cloud et l'**Automatisation**.
 
-Ma force ? Je ne me contente pas de configurer des systèmes, je crée les outils pour les automatiser.
+Ma force ? Une vision globale de l'infrastructure : du câblage réseau à la sécurisation des flux applicatifs.
 
-*IT Student at Sup de Vinci Rennes, focusing on Network Infrastructure, SysAdmin, and Process Automation.*
+*Hybrid IT Student at Sup de Vinci Rennes, focusing on Cloud Infrastructure, Systems & Network Administration, and Security by Design.*
 
 <br/>
 
 ### 🎯 Objectif : Alternance 2026
 <br/>
-Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Système & Réseau** ou **DevOps Junior** pour la rentrée de Septembre 2026 (disponible avant).
+Je recherche une alternance (rythme 2 sem / 2 sem) en **Administration Systèmes & Réseaux**, **Cloud** ou **DevOps Junior** pour la rentrée du **24 Août 2026**.
 
 <br/>
 
 ### 🛠️ Ma Stack Technique | Tech Stack
 <br/>
 <p align="left">
-  <!-- Infra & Réseau (Mise en avant) -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
 
-  <!-- Scripting & Automatisation -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 
-  <!-- Dev & Langages -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <br/>
 
-### 📂 Projets & Labs | Projects & Labs
+### 📂 Projets Majeurs | Featured Projects
 <br/>
 
+#### 🚀 [Altio.software](https://github.com/Henri-tks/altio.software)
+> *Infrastructure Cloud & SaaS Sécurisé*
+> Déploiement d'une infrastructure complète avec gestion DNS/WAF via **Cloudflare**, isolation de données **PostgreSQL RLS** et chiffrement **SSL Full-Strict**.
+> * **Tech :** Cloudflare, Supabase (SQL), Next.js, Vercel, TLS 1.3.
 
-#### 🛡️ [Sécurité Kubernetes & DevSecOps](https://github.com/Henri-tks/AIGIS-DevSecOps-Lab)
-> *Cyberdéfense & Surveillance Runtime*
-> Déploiement d'une architecture de sécurité "Zero-Trust" avec détection d'intrusions en temps réel via sondes noyau (eBPF).
+#### 🎙️ [Agent Vocal IA & DevOps](https://github.com/Henri-tks/Projet-Agent-Vocal-Infrastructure-VoIP)
+> *Automatisation & Administration de services*
+> Mise en place d'un standardiste IA autonome. Hébergement et sécurisation sur **Docker** avec orchestration de flux via **n8n** (Low-Latency).
+> * **Tech :** Docker, API REST, Webhooks, Linux, Twilio.
 
-> * **Tech :** Kubernetes, Falco, eBPF, Docker, IaC.
+#### 🛡️ [Sécurité Kubernetes (Lab)](https://github.com/Henri-tks/AIGIS-DevSecOps-Lab)
+> *Infrastructure Zero-Trust*
+> Monitoring de sécurité runtime via eBPF et détection d'intrusions sur clusters conteneurisés.
+> * **Tech :** Kubernetes, Falco, eBPF, Docker.
 
-#### 🎙️ [Agent Vocal & Infrastructure VoIP](https://github.com/Henri-tks/Projet-Agent-Vocal-Infrastructure-VoIP)
-> *Automatisation & Flux Réseaux*
-> Mise en place d'un standardiste IA gérant des flux audio temps réel via API (Low-Latency).
-> * **Tech :** Docker, Webhooks, API REST, Gestion de flux.
-
-#### 🛠️ [Scripts d'Administration Système](https://github.com/Henri-tks/Scripts-Administration-Systeme)
-> *Scripting & Maintenance*
-> Automatisation de tâches récurrentes et traitement de données.
-> * **Tech :** Python, Bash/PowerShell.
+#### 🛠️ [Administration & Scripts](https://github.com/Henri-tks/Scripts-Administration-Systeme)
+> *Automatisation Système*
+> Scripts de maintenance et de gestion de parc informatique.
+> * **Tech :** PowerShell, Bash, Python.
 
 #### 📚 [Gestionnaire de Bibliothèque](https://github.com/Henri-tks/Gestionnaire_Bibliotheque)
+
 > *Développement Logiciel (C#)*
 > Application complète avec base de données SQL.
 > * **Tech :** C# .NET, SQL Server.
 
 <br/>
-
 
 ### 📫 Contact
 <br/>
