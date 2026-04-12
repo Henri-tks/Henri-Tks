@@ -57,7 +57,7 @@
 
 ---
 
-### 🔒 [Sécurité Kubernetes — Lab](https://github.com/Henri-tks/AIGIS-DevSecOps-Lab) *(en cours | ongoing)*
+### 🔒 [Sécurité Kubernetes — Lab](https://github.com/Henri-tks/AIGIS-DevSecOps-Lab)
 🇫🇷 **Infrastructure Zero-Trust** — Monitoring de sécurité runtime via eBPF et détection d'intrusions sur clusters conteneurisés.  
 🇬🇧 **Zero-Trust Infrastructure** — Runtime security monitoring via eBPF and intrusion detection on containerized clusters.  
 `Kubernetes` `Falco` `eBPF` `Docker`
